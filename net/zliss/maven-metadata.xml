@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>zliss-mybatis-generator-maven</name>
+      <prefix>zliss-mybatis-generator</prefix>
+      <artifactId>zliss-mybatis-generator-maven</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
